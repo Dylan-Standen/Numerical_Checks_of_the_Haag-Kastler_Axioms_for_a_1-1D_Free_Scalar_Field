@@ -8,6 +8,6 @@ This is currently a work in progress and does not represent the finished work. I
 
 ### Contents
 
-- PDF – Most recent compiled draft  
+- `AQFT_NUMERICAL_CHECK_PAPER.pdf` – Most recent compiled draft  
 - TEX – The LaTeX source
 
